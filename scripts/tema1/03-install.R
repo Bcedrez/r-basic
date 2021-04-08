@@ -9,3 +9,6 @@ library(magic)
 magic(6)
 
 installed.packages()
+
+
+
